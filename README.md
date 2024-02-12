@@ -1,2 +1,3 @@
 # tradebot
 # trading bot
+# copilot
