@@ -1,2 +1,2 @@
 # tradebot
-zz
+zzd
