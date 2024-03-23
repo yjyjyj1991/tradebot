@@ -1,4 +1,4 @@
-sz# tradebot
+dsz# tradebot
 zzd
 aa
 a
