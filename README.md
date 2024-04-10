@@ -1,4 +1,4 @@
-oyygsaaqhdgsdadsz# tradebot
+ooyygsaaqhdgsdadsz# tradebot
 zzd
 aa
 a
