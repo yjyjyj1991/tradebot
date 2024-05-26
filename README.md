@@ -6,3 +6,4 @@ hope
 last
 situation
 ai
+gg
