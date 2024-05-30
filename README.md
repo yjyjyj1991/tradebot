@@ -9,3 +9,4 @@ ai
 gg
 future
 stick to plan
+bless
