@@ -8,3 +8,4 @@ situation
 ai
 gg
 future
+stick to plan
